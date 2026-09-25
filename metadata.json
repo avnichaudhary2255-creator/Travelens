@@ -1,0 +1,6 @@
+{
+  "name": "Travelens",
+  "description": "AI Tourism Risk Intelligence — See the risk before you go. Predictive scam detection, unsafe zone alerts, safe corridors, and emergency response.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
